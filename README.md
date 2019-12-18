@@ -1,3 +1,10 @@
 # DataScience
 Data Science Rep
--This is a marked down file
+- Point1
+- Point2
+
+____
+```
+print('Hello World')
+print('what')
+```
